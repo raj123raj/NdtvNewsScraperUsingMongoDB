@@ -1,8 +1,6 @@
 # NdtvNewsScraperUsingMongoDB
 Using Mongoose, Node JS, Cheerio, NDTV news website is scraped and data is loaded into Mongo DB database
 
-# Scrape news headlines into MongoDB
-
 This is a full-stack JavaScript app built using MongoDB, Mongoose, Node.js, Express.js, Handlebars.js, HTML, and CSS. It scrapes the  [NDTV](https://ndtv.com/) homepage and stores article titles and links
 
 ## Get new articles, save favorites, and write notes
@@ -21,7 +19,7 @@ These must be installed to run the app locally: For any Node JS projects, this i
 
 - [Node.js](https://nodejs.org/en/)
 - [npm](https://www.npmjs.com/get-npm)
-- 
+ 
 ## IDE
 Visual Studio Code is the best IDE to code Node JS and Mongoose related projects
 
